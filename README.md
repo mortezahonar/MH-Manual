@@ -20,6 +20,6 @@ The markdown files for the this documentation are in the `about` folder.
 
 ## مشارکت
 
-این راهنما خودمستند است، می‌توانید مستندات را در نشانی manual.joomla.org/about پیدا کنید.
+این راهنما خودمستند است، می‌توانید مستندات را در نشانی [manual.joomla.org/about](https://manual.joomla.org/about/) پیدا کنید.
 
 فایل‌های مارک‌داون برای این مستندات در پوشه `about` قرار دارند.
